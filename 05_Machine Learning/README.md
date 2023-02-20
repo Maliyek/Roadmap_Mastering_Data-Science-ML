@@ -4,7 +4,7 @@
 
 ### What we will do and gain?
 
-- Build an in-depth understanding of all the data concepts. 
+- Build an in-depth understanding of the data concepts. 
 - Create your strong social media profile on LinkedIn and GitHub.
 - Build 15+ projects including 5+ Major Projects.
 - Showcase your skills with a portfolio of real projects.
