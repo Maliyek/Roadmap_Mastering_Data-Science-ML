@@ -6,7 +6,7 @@
 
 - Build an in-depth understanding of the data concepts. 
 - Create your strong social media profile on LinkedIn and GitHub.
-- Build 15+ projects including 5+ Major Projects.
+- Build 15+ projects including 5+ Major Ones.
 - Showcase your skills with a portfolio of real projects.
 - Work on Live projects in parallel to understand how companies create end-to-end software solutions and apply ML models to real-life problems.
 
