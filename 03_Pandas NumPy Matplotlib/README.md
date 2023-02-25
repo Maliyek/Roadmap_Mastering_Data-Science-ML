@@ -26,23 +26,6 @@ Python supports n-dimensional arrays with Numpy. For data in 2-dimensions, Panda
 - Label Parameters, Legend
 - Bar Chart, Pie Chart, Histogram, Scatter Plot
 
-### Join Telegram for Data Science ML AI Resources:
-https://t.me/+sREuRiFssMo4YWJl
-
-### Connect with me on these platforms:
-LinkedIn: https://www.linkedin.com/in/hemansnation/
-
-Twitter: https://twitter.com/hemansnation
-
-GitHub: https://github.com/hemansnation
-
-Instagram: https://www.instagram.com/masterdexter.ai/
-
-
-### Are you a professional?
-For One-on-One sessions for Python, Data Science, Machine Learning, and Data Engineering.
-<br>Email your requirements Here: connect@himanshuramchandani.co
-
 
 
 

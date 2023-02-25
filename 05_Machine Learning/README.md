@@ -1,6 +1,5 @@
 # Data Science ML Full Stack
 
-![Robot](https://github.com/hemansnation/Data-Science-ML-Full-Stack/blob/master/images/a-robot-with-lights-on-jx5pkvw0.jpeg)
 
 ### What we will do and gain?
 
@@ -320,70 +319,9 @@ We follow project-based learning and we will work on all the projects in paralle
 
 
 
-# 15 | Git & GitHub
-
-### [Git & GitHub Course](https://god-level-python.notion.site/Git-GitHub-Course-Make-Recruiters-reach-You-Build-your-stunning-profile-First-open-source-cont-1d4d70450aa94dd7ad2c062c0fec3cb8)
-
-- Understanding Git
-- Commands and How to commit your first code?
-- How to use GitHub?
-- How to make your first open-source contribution?
-- How to work with a team? - Part 1
-- How to create your stunning GitHub profile?
-- How to build your own viral repository?
-- Building a personal landing page for your Portfolio for FREE
-- How to grow followers on GitHub?
-- How to work with a team? Part 2 - issues, milestone and projects
-
-
-# 16 | Personal Profile & Portfolio
 
 
 
-
-# Resources
-
-### Datasets 
-
-1️⃣ [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
-This list of a topic-centric public data sources in high quality.
-
-2️⃣[NLP Datasets](https://github.com/niderhoff/nlp-datasets) 
-Alphabetical list of free/public domain datasets with text data for use in NLP.
- 
-3️⃣[Awesome Dataset Tools](https://github.com/jsbroks/awesome-dataset-tools)
-A curated list of awesome dataset tools.
-
-4️⃣[Awesome time series database](https://github.com/xephonhq/awesome-time-series-database)
-A curated list of time series databases.
- 
-5️⃣[Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets)
-A curated list of amazingly awesome Cybersecurity datasets.
- 
-6️⃣[Awesome Robotics Datasets](https://github.com/mint-lab/awesome-robotics-datasets)
-Robotics Dataset Collections.
- 
-
-
-
-
-
-### Join Telegram for Data Science ML AI Resources:
-https://t.me/+sREuRiFssMo4YWJl
-
-### Connect with me on these platforms:
-LinkedIn: https://www.linkedin.com/in/hemansnation/
-
-Twitter: https://twitter.com/hemansnation
-
-GitHub: https://github.com/hemansnation
-
-Instagram: https://www.instagram.com/masterdexter.ai/
-
-
-### Are you a professional?
-For One-on-One sessions for Python, Data Science, Machine Learning, and Data Engineering.
-<br>Email your requirements Here: connect@himanshuramchandani.co
 
 
 
