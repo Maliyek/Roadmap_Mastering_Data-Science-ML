@@ -1,5 +1,6 @@
 # Data Science ML Full Stack
 
+
 ### What we will do and gain?
 
 - Build an in-depth understanding of all the data concepts. 
@@ -361,7 +362,5 @@ A curated list of amazingly awesome Cybersecurity datasets.
 6️⃣[Awesome Robotics Datasets](https://github.com/mint-lab/awesome-robotics-datasets)
 Robotics Dataset Collections.
  
-
-
 
 
