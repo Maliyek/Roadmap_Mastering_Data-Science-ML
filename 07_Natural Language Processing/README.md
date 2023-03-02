@@ -1,10 +1,12 @@
 # Data Science ML Full Stack
 
+![Robot](https://github.com/hemansnation/Data-Science-ML-Full-Stack/blob/master/images/a-robot-with-lights-on-jx5pkvw0.jpeg)
+
 ### What we will do and gain?
 
-- Build an in-depth understanding of the data concepts. 
+- Build an in-depth understanding of all the data concepts. 
 - Create your strong social media profile on LinkedIn and GitHub.
-- Build 15+ projects including 5+ Major Ones.
+- Build 15+ projects including 5+ Major Projects.
 - Showcase your skills with a portfolio of real projects.
 - Work on Live projects in parallel to understand how companies create end-to-end software solutions and apply ML models to real-life problems.
 
@@ -318,7 +320,6 @@ We follow project-based learning and we will work on all the projects in paralle
 
 
 
-
 # 15 | Git & GitHub
 
 ### [Git & GitHub Course](https://god-level-python.notion.site/Git-GitHub-Course-Make-Recruiters-reach-You-Build-your-stunning-profile-First-open-source-cont-1d4d70450aa94dd7ad2c062c0fec3cb8)
@@ -362,18 +363,6 @@ A curated list of amazingly awesome Cybersecurity datasets.
 6️⃣[Awesome Robotics Datasets](https://github.com/mint-lab/awesome-robotics-datasets)
 Robotics Dataset Collections.
  
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
