@@ -209,3 +209,153 @@ If you are interested in working with Text, you should do some of the work an NL
 - Building a text classifier
 - Identifying the gender
 
+# 8 | Computer Vision
+To work on image and video analytics we can master computer vision. To work on computer vision we have to understand images.
+
+- PyTorch Tensors
+- Understanding Pretrained models like AlexNet, ImageNet, ResNet.
+- Neural Networks
+- Building a perceptron
+- Building a single layer neural network
+- Building a deep neural network
+- Recurrent neural network for sequential data analysis
+
+### Convolutional Neural Networks
+
+- Understanding the ConvNet topology
+- Convolution layers
+- Pooling layers
+- Image Content Analysis
+- Operating on images using OpenCV-Python
+- Detecting edges
+- Histogram equalization
+- Detecting corners
+- Detecting SIFT feature points
+
+
+# 9 | Data Visualization with Tableau
+
+How to use it Visual Perception
+
+- What is it, How it works, Why Tableau
+- Connecting to Data
+- Building charts
+- Calculations
+- Dashboards
+- Sharing our work
+- Advanced Charts, Calculated Fields, Calculated Aggregations
+- Conditional Calculation, Parameterized Calculation
+
+
+# 10 | Structure Query Language (SQL)
+
+1. Introduction to SQL: Learn the basics of SQL syntax, commands, and data types.
+2. Retrieving Data: Learn how to write queries to retrieve data from a database using SELECT statements, filtering, sorting, and grouping.
+3. Joins: Learn how to combine data from multiple tables using INNER JOIN, OUTER JOIN, and other types of joins.
+4. Aggregating Data: Learn how to use aggregate functions like SUM, COUNT, AVG, and MAX to summarize data.
+5. Subqueries: Learn how to use subqueries to retrieve data from one or more tables based on conditions.
+6. Creating Tables: Learn how to create tables, define columns, and set constraints.
+7. Modifying Data: Learn how to insert, update, and delete data in a table.
+8. Advanced SQL: Learn advanced SQL concepts such as transactions, views, stored procedures, and functions.
+9. Database Design: Learn about database design principles, normalization, and ER diagrams.
+10. Practice, Practice, Practice: Practice writing SQL queries on real-world datasets, and work on projects to apply your knowledge.
+
+
+# 11 | Data Engineering
+
+### BigData
+- What is BigData?
+- How is BigData applied within Business?
+### PySpark
+- Resilient Distributed Datasets
+- Schema
+- Lambda Expressions
+- Transformations
+- Actions
+
+### Data Modeling
+
+- Duplicate Data
+- Descriptive Analysis on Data
+- Visualizations
+- ML lib
+- ML Packages
+- Pipelines
+
+### Streaming
+
+- Packaging Spark Applications
+
+# 12 | Data System Design
+
+- Foundation of Data Systems
+- Data Models
+- Storage
+- Encoding
+- Distributed Data
+- Replication
+- Partitioning
+- Derived Data
+- Batch Processing
+- Stream Processing
+- Microsoft Azure
+- Azure Data Workloads
+- Azure Data Factory
+- Azure HDInsights
+- Azure Databricks
+- Azure Synapse Analytics
+- Relational Database in Azure
+- Non-relational Database in Azure
+
+
+# 13 | Five Major Projects and Git
+
+We follow project-based learning and we will work on all the projects in parallel.
+
+
+# 14 | Interview Preperation
+
+
+
+# 15 | Git & GitHub
+
+### [Git & GitHub Course](https://god-level-python.notion.site/Git-GitHub-Course-Make-Recruiters-reach-You-Build-your-stunning-profile-First-open-source-cont-1d4d70450aa94dd7ad2c062c0fec3cb8)
+
+- Understanding Git
+- Commands and How to commit your first code?
+- How to use GitHub?
+- How to make your first open-source contribution?
+- How to work with a team? - Part 1
+- How to create your stunning GitHub profile?
+- How to build your own viral repository?
+- Building a personal landing page for your Portfolio for FREE
+- How to grow followers on GitHub?
+- How to work with a team? Part 2 - issues, milestone and projects
+
+
+# 16 | Personal Profile & Portfolio
+
+
+
+
+# Resources
+
+### Datasets 
+
+1️⃣ [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+This list of a topic-centric public data sources in high quality.
+
+2️⃣[NLP Datasets](https://github.com/niderhoff/nlp-datasets) 
+Alphabetical list of free/public domain datasets with text data for use in NLP.
+ 
+3️⃣[Awesome Dataset Tools](https://github.com/jsbroks/awesome-dataset-tools)
+A curated list of awesome dataset tools.
+
+4️⃣[Awesome time series database](https://github.com/xephonhq/awesome-time-series-database)
+A curated list of time series databases.
+ 
+5️⃣[Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets)
+A curated list of amazingly awesome Cybersecurity datasets.
+ 
+6️⃣[Awesome Robotics Datasets](https://github.com/mint-lab/awesome-robotics-datasets)
+Robotics Dataset Collections.
