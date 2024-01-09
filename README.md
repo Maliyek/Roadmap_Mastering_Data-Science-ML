@@ -1,4 +1,4 @@
-# God-Level Data Science ML Full Stack
+# Roadmap_Mastering_Datascience-ML
 
 A collection of scientific methods, processes, algorithms, and systems to build stories & models. This roadmap contains 16 Chapters, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science & AI
 
